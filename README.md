@@ -1,1 +1,1 @@
-# student-grade-calculator
+A C++ student grade calculator that validates three scores, calculates the final average, and assigns an academic letter grade.
